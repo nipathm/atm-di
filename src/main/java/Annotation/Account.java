@@ -1,4 +1,4 @@
-package springJavaConfig;
+package JavaConfig;
 
 /**
  * A bank account has a balance that can be changed by
